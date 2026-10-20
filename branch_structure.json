@@ -1,0 +1,18 @@
+{
+  "default_branch": "develop",
+  "branches": [
+    "develop",
+    "fix/issue-1175-webapp-fix-login-callback-handling-open",
+    "origin"
+  ],
+  "parent": {
+    "develop": null,
+    "fix/issue-1175-webapp-fix-login-callback-handling-open": "develop",
+    "origin": "develop"
+  },
+  "order": [
+    "develop",
+    "fix/issue-1175-webapp-fix-login-callback-handling-open",
+    "origin"
+  ]
+}
